@@ -12,7 +12,7 @@
         "split_count": [18, 18]
     },
     "matrix_pins": {
-        "cols": ["GP28", "GP14", "GP6", "GP7", "GP8"],
+        "cols": ["GP28", "GP12", "GP6", "GP7", "GP8"],
         "rows": ["GP26", "GP5", "GP4", "GP9"]
     },
     "diode_direction": "ROW2COL",
